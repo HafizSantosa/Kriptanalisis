@@ -1,0 +1,21 @@
+Frekuensi Digram (Paling Sering Muncul):
+NG: 12
+NE: 12
+PC: 12
+WC: 11
+TN: 11
+NF: 10
+PE: 10
+DI: 10
+BI: 9
+DN: 9
+GL: 9
+TI: 8
+MN: 8
+IK: 8
+GN: 8
+GW: 8
+UE: 8
+SK: 8
+ID: 8
+KF: 7
